@@ -14,7 +14,8 @@ This plugin can be added via the Open Ephys GUI Plugin Installer. To access the 
 
 Instructions for using the ZMQ Interface plugin are available [here](https://open-ephys.github.io/gui-docs/User-Manual/Plugins/ZMQ-Interface.html).
 
-
+## Added multichannel raw data/ spike data realtime graph python code. (25.04 by tiramica)
+Resource/python_client/zmq_multichannel_gui_slider.py and zmq_multichannel_spike_v2.py
 
 ## Building from source
 
